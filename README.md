@@ -154,4 +154,5 @@ For support, email balisterravish11@gmail.com .
 For my work you can follow:
 
 
-[![linkedin](https://www.linkedin.com/in/balister-ravish-kumar-a386131a3/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balister-ravish-kumar-a386131a3/)
+
