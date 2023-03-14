@@ -154,6 +154,5 @@ For support, email saikamal9797@gmail.com .
 For my work you can follow:
 
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-kamal-korlakunta-a81326163/)
+[![linkedin](https://www.linkedin.com/in/balister-ravish-kumar-a386131a3/)
 
-[Medium](https://medium.com/@korlakuntasaikamal10)
